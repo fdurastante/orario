@@ -1,0 +1,16 @@
+﻿Soft conflicts of 2425s1_nuovivincoli23.fet
+Generated with FET 6.22.0 on 6/25/24 3:55 PM
+
+Number of broken soft constraints: 6
+Total soft conflicts: 4.2
+
+Soft conflicts list (in decreasing order):
+
+Time constraint activities preferred starting times broken for activity with id=40 (1/2 -     Matteo Novaga,Emanuele Paolini - Elementi di calcolo delle variazioni - LT scelta - 3 LT scelta anal), increases conflicts total by 0.7
+Time constraint activities preferred starting times broken for activity with id=65 (1/2 -     Claudio Bonanno - Sistemi dinamici - LT scelta - 3 LT scelta anal,3 LT scelta geom), increases conflicts total by 0.7
+Time constraint activities preferred starting times broken for activity with id=73 (1/2 -     Dario Trevisan - Analisi gaussiana - LM scelta - 3 LT scelta anal,LM anal), increases conflicts total by 0.7
+Time constraint activities preferred starting times broken for activity with id=100 (1/2 -     Vladimir Gueorguiev,Laura Manca - Modelli matematici in biomedicina e fisica matematica - LM scelta - 3 LT scelta appl,LM appl,LM num), increases conflicts total by 0.7
+Time constraint activities preferred starting times broken for activity with id=103 (    1/2 - Giovanni Alberti - Teoria della misura - LM scelta - 3 LT scelta anal), increases conflicts total by 0.7
+Time constraint activities preferred starting times broken for activity with id=106 (1/2 -     Gianluigi Del Magno - Teoria ergodica - LM scelta - 3 LT scelta appl,LM appl), increases conflicts total by 0.7
+
+End of file.

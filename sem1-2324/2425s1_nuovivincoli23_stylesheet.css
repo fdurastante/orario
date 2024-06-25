@@ -1,0 +1,901 @@
+﻿@charset "UTF-8";
+
+/* CSS Style sheet of 2425s1_nuovivincoli23.fet
+   Style sheet generated with FET 6.22.0 on 6/25/24 3:55 PM */
+
+/* To do a page-break only after every second timetable, delete "page-break-before: always;" in "table.even_table". */
+/* Delete "page-break-before: always;" in "table.even_table" and in "table.odd_table" to skip page-breaks. */
+/* To hide an element just write the following phrase into the element: "display: none;" (without quotes). */
+
+p.back {
+  margin-top: 4ex;
+  margin-bottom: 5ex;
+}
+
+table {
+  text-align: center;
+  page-break-inside: avoid;
+}
+
+table.odd_table {
+  page-break-before: always;
+}
+
+table.even_table {
+  page-break-before: always;
+}
+
+table.detailed {
+  margin-left: auto; margin-right: auto;
+  text-align: center;
+  border: 0px;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+caption {
+
+}
+
+thead {
+
+}
+
+/* Some programs import "tfoot" incorrectly. So we use "tr.foot" instead of "tfoot". */
+
+tr.foot {
+
+}
+
+tbody {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+td.detailed {
+  border: 1px dashed silver;
+  border-bottom: 0;
+  border-top: 0;
+}
+
+th.xAxis {
+/* width: 8em; */
+}
+
+th.yAxis {
+  height: 8ex;
+}
+
+span.s_1 { /* subject Analisi matematica 1 */
+
+}
+
+span.s_2 { /* subject Aritmetica */
+
+}
+
+span.s_3 { /* subject Fondamenti di programmazione con laboratorio */
+
+}
+
+span.s_4 { /* subject Geometria 1 */
+
+}
+
+span.s_5 { /* subject Laboratorio di introduzione alla matematica computazionale A */
+
+}
+
+span.s_6 { /* subject Laboratorio di introduzione alla matematica computazionale B */
+
+}
+
+span.s_7 { /* subject Algebra 1 */
+
+}
+
+span.s_8 { /* subject Analisi matematica 2 */
+
+}
+
+span.s_9 { /* subject Geometria 2 */
+
+}
+
+span.s_10 { /* subject Analisi matematica 3 */
+
+}
+
+span.s_11 { /* subject Calcolo scientifico */
+
+}
+
+span.s_12 { /* subject Elementi di calcolo delle variazioni */
+
+}
+
+span.s_13 { /* subject Elementi di geometria algebrica */
+
+}
+
+span.s_14 { /* subject Elementi di teoria degli insiemi */
+
+}
+
+span.s_15 { /* subject Elementi di topologia algebrica */
+
+}
+
+span.s_16 { /* subject Fisica II */
+
+}
+
+span.s_17 { /* subject Geometria e topologia differenziale */
+
+}
+
+span.s_18 { /* subject Laboratorio computazionale */
+
+}
+
+span.s_19 { /* subject Matematiche elementari da un punto di vista superiore: aritmetica */
+
+}
+
+span.s_20 { /* subject Probabilità */
+
+}
+
+span.s_21 { /* subject Ricerca operativa */
+
+}
+
+span.s_22 { /* subject Sistemi dinamici */
+
+}
+
+span.s_23 { /* subject Storia della matematica */
+
+}
+
+span.s_24 { /* subject Analisi armonica */
+
+}
+
+span.s_25 { /* subject Geometria e analisi complessa */
+
+}
+
+span.s_26 { /* subject Analisi gaussiana */
+
+}
+
+span.s_27 { /* subject Calcolo delle variazioni B */
+
+}
+
+span.s_28 { /* subject Curve ellittiche */
+
+}
+
+span.s_29 { /* subject Determinazione orbitale */
+
+}
+
+span.s_30 { /* subject Geometria riemanniana */
+
+}
+
+span.s_31 { /* subject Gruppi algebrici lineari */
+
+}
+
+span.s_32 { /* subject Istituzioni di algebra */
+
+}
+
+span.s_33 { /* subject Istituzioni di analisi matematica */
+
+}
+
+span.s_34 { /* subject Istituzioni di didattica della matematica */
+
+}
+
+span.s_35 { /* subject Istituzioni di fisica matematica */
+
+}
+
+span.s_36 { /* subject Metodi numerici per catene di Markov */
+
+}
+
+span.s_37 { /* subject Metodi numerici per la grafica */
+
+}
+
+span.s_38 { /* subject Modelli matematici in biomedicina e fisica matematica */
+
+}
+
+span.s_39 { /* subject Teoria della misura */
+
+}
+
+span.s_40 { /* subject Teoria e metodi dell’ottimizzazione */
+
+}
+
+span.s_41 { /* subject Teoria ergodica */
+
+}
+
+span.s_42 { /* subject Analisi numerica con laboratorio lab a */
+
+}
+
+span.s_43 { /* subject Analisi numerica con laboratorio lab b */
+
+}
+
+span.s_44 { /* subject Calcolo scientifico lab */
+
+}
+
+span.s_45 { /* subject Analisi numerica */
+
+}
+
+span.at_1 { /* activity tag G */
+
+}
+
+span.at_2 { /* activity tag lab */
+
+}
+
+span.at_3 { /* activity tag E1 */
+
+}
+
+span.at_4 { /* activity tag LT scelta */
+
+}
+
+span.at_5 { /* activity tag LT large */
+
+}
+
+span.at_6 { /* activity tag DMlab */
+
+}
+
+span.at_7 { /* activity tag LM scelta */
+
+}
+
+span.at_8 { /* activity tag ist */
+
+}
+
+span.at_9 { /* activity tag tresucinque */
+
+}
+
+span.ss_1 { /* students set 1 LT */
+
+}
+
+span.ss_2 { /* students set 1 LT A */
+
+}
+
+span.ss_4 { /* students set 1 LT A bis */
+
+}
+
+span.ss_6 { /* students set 1 LT B bis */
+
+}
+
+span.ss_8 { /* students set 1 LT B */
+
+}
+
+span.ss_10 { /* students set 2 LT */
+
+}
+
+span.ss_11 { /* students set 2 LT A */
+
+}
+
+span.ss_13 { /* students set 2 LT B */
+
+}
+
+span.ss_16 { /* students set 3 LT Computazionale */
+
+}
+
+span.ss_18 { /* students set 3 LT Fondamentale */
+
+}
+
+span.ss_20 { /* students set 3 LT scelta anal */
+
+}
+
+span.ss_21 { /* students set 3 LT scelta anal F */
+
+}
+
+span.ss_22 { /* students set 3 LT scelta anal C */
+
+}
+
+span.ss_23 { /* students set 3 LT scelta geom */
+
+}
+
+span.ss_24 { /* students set 3 LT scelta geom C */
+
+}
+
+span.ss_25 { /* students set 3 LT scelta geom F */
+
+}
+
+span.ss_26 { /* students set 3 LT scelta did */
+
+}
+
+span.ss_27 { /* students set 3 LT scelta did C */
+
+}
+
+span.ss_28 { /* students set 3 LT scelta did F */
+
+}
+
+span.ss_29 { /* students set 3 LT scelta appl */
+
+}
+
+span.ss_30 { /* students set 3 LT scelta appl F */
+
+}
+
+span.ss_31 { /* students set 3 LT scelta appl C */
+
+}
+
+span.ss_33 { /* students set LM ist */
+
+}
+
+span.ss_35 { /* students set LM anal */
+
+}
+
+span.ss_37 { /* students set LM geom */
+
+}
+
+span.ss_39 { /* students set LM appl */
+
+}
+
+span.ss_41 { /* students set LM num */
+
+}
+
+span.ss_43 { /* students set LM did */
+
+}
+
+span.ss_45 { /* students set LM fismat */
+
+}
+
+span.ss_47 { /* students set LM Eti FiSMat */
+
+}
+
+span.t_1 { /* teacher Aikaterini Papagiannouli */
+
+}
+
+span.t_2 { /* teacher Alberto Cogliati */
+
+}
+
+span.t_3 { /* teacher Alberto Messineo */
+
+}
+
+span.t_4 { /* teacher Aldo Pratelli */
+
+}
+
+span.t_5 { /* teacher Alessandra Pluda */
+
+}
+
+span.t_6 { /* teacher Alessandro Iraci */
+
+}
+
+span.t_7 { /* teacher Alessandro Strumia */
+
+}
+
+span.t_8 { /* teacher Andrea Agazzi */
+
+}
+
+span.t_9 { /* teacher Andrea Bandini */
+
+}
+
+span.t_10 { /* teacher Andrea Di Lorenzo */
+
+}
+
+span.t_11 { /* teacher Andrea Maffei */
+
+}
+
+span.t_12 { /* teacher Anna Baccaglini-Frank */
+
+}
+
+span.t_13 { /* teacher Beatrice Meini */
+
+}
+
+span.t_14 { /* teacher Bozhidar Velichkov */
+
+}
+
+span.t_15 { /* teacher Bruno Martelli */
+
+}
+
+span.t_16 { /* teacher Carlo Carminati */
+
+}
+
+span.t_17 { /* teacher Cecilia Pagliantini */
+
+}
+
+span.t_18 { /* teacher Claudio Bonanno */
+
+}
+
+span.t_19 { /* teacher Dario Trevisan */
+
+}
+
+span.t_20 { /* teacher Davide Lombardo */
+
+}
+
+span.t_21 { /* teacher Diego Conti */
+
+}
+
+span.t_22 { /* teacher Elisabetta Chiodaroli */
+
+}
+
+span.t_23 { /* teacher Emanuele Paolini */
+
+}
+
+span.t_24 { /* teacher Enrico Sbarra */
+
+}
+
+span.t_25 { /* teacher Fabio Durastante */
+
+}
+
+span.t_26 { /* teacher Fabrizio Bianchi */
+
+}
+
+span.t_27 { /* teacher Federico Poloni */
+
+}
+
+span.t_28 { /* teacher Filippo Gianluca Callegaro */
+
+}
+
+span.t_29 { /* teacher Giacomo Lari */
+
+}
+
+span.t_30 { /* teacher Giacomo Tommei */
+
+}
+
+span.t_31 { /* teacher Giancarlo Bigi */
+
+}
+
+span.t_32 { /* teacher Gianluigi Del Magno */
+
+}
+
+span.t_33 { /* teacher Giovanni Alberti */
+
+}
+
+span.t_34 { /* teacher Giovanni Federico Gronchi */
+
+}
+
+span.t_35 { /* teacher Giovanni Gaiffi */
+
+}
+
+span.t_36 { /* teacher Giulia Lisarelli */
+
+}
+
+span.t_37 { /* teacher Giulio Baù */
+
+}
+
+span.t_38 { /* teacher Giuseppe Clemente */
+
+}
+
+span.t_39 { /* teacher Gregory J. Pearlstein */
+
+}
+
+span.t_40 { /* teacher Ignazio Bombaci */
+
+}
+
+span.t_41 { /* teacher Ilaria Del Corso */
+
+}
+
+span.t_42 { /* teacher Ilaria Lucardesi */
+
+}
+
+span.t_43 { /* teacher inf1 */
+
+}
+
+span.t_44 { /* teacher Jacopo Bellazzini */
+
+}
+
+span.t_45 { /* teacher Laura Manca */
+
+}
+
+span.t_46 { /* teacher Leonardo Patimo */
+
+}
+
+span.t_47 { /* teacher Leonardo Robol */
+
+}
+
+span.t_48 { /* teacher Luca Heltai */
+
+}
+
+span.t_49 { /* teacher Luigi Carlo Berselli */
+
+}
+
+span.t_50 { /* teacher Marcello Mamino */
+
+}
+
+span.t_51 { /* teacher Marco Abate */
+
+}
+
+span.t_52 { /* teacher Marco Franciosi */
+
+}
+
+span.t_53 { /* teacher Marco Romito */
+
+}
+
+span.t_54 { /* teacher Marco Sozzi */
+
+}
+
+span.t_55 { /* teacher Maria Grazia Scutellà */
+
+}
+
+span.t_56 { /* teacher Maria Stella Gelli */
+
+}
+
+span.t_57 { /* teacher Mario Maurelli */
+
+}
+
+span.t_58 { /* teacher Mario Salvetti */
+
+}
+
+span.t_59 { /* teacher Massimo Pappalardo */
+
+}
+
+span.t_60 { /* teacher mat051 */
+
+}
+
+span.t_61 { /* teacher Matteo Novaga */
+
+}
+
+span.t_62 { /* teacher Mattia Talpo */
+
+}
+
+span.t_63 { /* teacher Mauro Di Nasso */
+
+}
+
+span.t_64 { /* teacher Michele D’Adderio */
+
+}
+
+span.t_65 { /* teacher Mirko Maracci */
+
+}
+
+span.t_66 { /* teacher Paola Boito */
+
+}
+
+span.t_67 { /* teacher Paolo Giulietti */
+
+}
+
+span.t_68 { /* teacher Paolo Lisca */
+
+}
+
+span.t_69 { /* teacher Paolo Maria Mancarella */
+
+}
+
+span.t_70 { /* teacher Pietro Di Martino */
+
+}
+
+span.t_71 { /* teacher Pietro Majer */
+
+}
+
+span.t_72 { /* teacher Roberta Gori */
+
+}
+
+span.t_73 { /* teacher Roberto Frigerio */
+
+}
+
+span.t_74 { /* teacher Roberto Grossi */
+
+}
+
+span.t_75 { /* teacher Sandro Manfredini */
+
+}
+
+span.t_76 { /* teacher Silvia Gazzola */
+
+}
+
+span.t_77 { /* teacher Stefano Massei */
+
+}
+
+span.t_78 { /* teacher studente */
+
+}
+
+span.t_79 { /* teacher Tamas Szamuely */
+
+}
+
+span.t_80 { /* teacher Vincenzo Ciancia */
+
+}
+
+span.t_81 { /* teacher Vladimir Gueorguiev */
+
+}
+
+span.r_1 { /* room G */
+
+}
+
+span.r_2 { /* room E1 */
+
+}
+
+span.r_3 { /* room H-Lab */
+
+}
+
+span.r_4 { /* room I-Lab */
+
+}
+
+span.r_5 { /* room M-Lab */
+
+}
+
+span.r_6 { /* room P1 */
+
+}
+
+span.r_7 { /* room N */
+
+}
+
+span.r_8 { /* room N1 */
+
+}
+
+span.r_9 { /* room O1 */
+
+}
+
+span.r_10 { /* room S1 */
+
+}
+
+span.r_11 { /* room DM-3 Lab */
+
+}
+
+span.subject {
+
+}
+
+span.activitytag {
+
+}
+
+span.empty {
+  color: gray;
+}
+
+td.empty {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+span.notAvailable {
+  color: gray;
+}
+
+td.notAvailable {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+span.break {
+  color: gray;
+}
+
+td.break {
+  border-color: silver;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: dotted;
+  border-top-style: dotted;
+}
+
+tr.studentsset, div.studentsset {
+
+}
+
+tr.teacher, div.teacher {
+
+}
+
+tr.room, div.room {
+
+}
+
+tr.line0, div.line0 {
+  font-size: smaller;
+}
+
+tr.line1, div.line1 {
+
+}
+
+tr.line2, div.line2 {
+  font-size: smaller;
+  color: gray;
+}
+
+tr.line3, div.line3 {
+  font-size: smaller;
+  color: silver;
+}
+
+/* Style the teachers' free periods */
+
+div.DESCRIPTION {
+  text-align: left;
+  font-size: smaller;
+}
+
+div.TEACHER_HAS_SINGLE_GAP {
+  color: black;
+}
+
+div.TEACHER_HAS_BORDER_GAP {
+  color: gray;
+}
+
+div.TEACHER_HAS_BIG_GAP {
+  color: silver;
+}
+
+div.TEACHER_MUST_COME_EARLIER {
+  color: purple;
+}
+
+div.TEACHER_MUST_COME_MUCH_EARLIER {
+  font-size: smaller;
+  color: fuchsia;
+}
+
+div.TEACHER_MUST_STAY_LONGER {
+  color: teal;
+}
+
+div.TEACHER_MUST_STAY_MUCH_LONGER {
+  font-size: smaller;
+  color: aqua;
+}
+
+div.TEACHER_HAS_A_FREE_DAY {
+  font-size: smaller;
+  color: red;
+}
+
+div.TEACHER_IS_NOT_AVAILABLE {
+  font-size: smaller;
+  color: olive;
+}
+
+/* End of file. */

@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Activities_Timetable>
+<Activity>
+	<Id>1</Id>
+	<Day>Lunedì</Day>
+	<Hour>16:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>2</Id>
+	<Day>Martedì</Day>
+	<Hour>11:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>3</Id>
+	<Day>Mercoledì</Day>
+	<Hour>09:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>4</Id>
+	<Day>Lunedì</Day>
+	<Hour>14:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>5</Id>
+	<Day>Giovedì</Day>
+	<Hour>09:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>6</Id>
+	<Day>Mercoledì</Day>
+	<Hour>11:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>7</Id>
+	<Day>Lunedì</Day>
+	<Hour>11:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>8</Id>
+	<Day>Venerdì</Day>
+	<Hour>09:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>9</Id>
+	<Day>Mercoledì</Day>
+	<Hour>14:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>10</Id>
+	<Day>Venerdì</Day>
+	<Hour>14:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>11</Id>
+	<Day>Martedì</Day>
+	<Hour>09:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>12</Id>
+	<Day>Giovedì</Day>
+	<Hour>11:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>13</Id>
+	<Day>Martedì</Day>
+	<Hour>16:00</Hour>
+	<Room>H-Lab</Room>
+</Activity>
+<Activity>
+	<Id>14</Id>
+	<Day>Venerdì</Day>
+	<Hour>11:00</Hour>
+	<Room>H-Lab</Room>
+</Activity>
+<Activity>
+	<Id>15</Id>
+	<Day>Martedì</Day>
+	<Hour>16:00</Hour>
+	<Room>M-Lab</Room>
+</Activity>
+<Activity>
+	<Id>16</Id>
+	<Day>Venerdì</Day>
+	<Hour>11:00</Hour>
+	<Room>M-Lab</Room>
+</Activity>
+<Activity>
+	<Id>17</Id>
+	<Day>Martedì</Day>
+	<Hour>14:00</Hour>
+	<Room>H-Lab</Room>
+</Activity>
+<Activity>
+	<Id>18</Id>
+	<Day>Giovedì</Day>
+	<Hour>14:00</Hour>
+	<Room>H-Lab</Room>
+</Activity>
+<Activity>
+	<Id>19</Id>
+	<Day>Martedì</Day>
+	<Hour>14:00</Hour>
+	<Room>M-Lab</Room>
+</Activity>
+<Activity>
+	<Id>20</Id>
+	<Day>Giovedì</Day>
+	<Hour>14:00</Hour>
+	<Room>M-Lab</Room>
+</Activity>
+<Activity>
+	<Id>21</Id>
+	<Day>Lunedì</Day>
+	<Hour>14:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>22</Id>
+	<Day>Martedì</Day>
+	<Hour>11:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>23</Id>
+	<Day>Mercoledì</Day>
+	<Hour>11:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>24</Id>
+	<Day>Venerdì</Day>
+	<Hour>14:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>25</Id>
+	<Day>Martedì</Day>
+	<Hour>16:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>26</Id>
+	<Day>Lunedì</Day>
+	<Hour>09:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>29</Id>
+	<Day>Giovedì</Day>
+	<Hour>09:00</Hour>
+	<Room>H-Lab</Room>
+</Activity>
+<Activity>
+	<Id>30</Id>
+	<Day>Giovedì</Day>
+	<Hour>11:00</Hour>
+	<Room>H-Lab</Room>
+</Activity>
+<Activity>
+	<Id>31</Id>
+	<Day>Venerdì</Day>
+	<Hour>11:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>32</Id>
+	<Day>Giovedì</Day>
+	<Hour>16:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>33</Id>
+	<Day>Martedì</Day>
+	<Hour>14:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>34</Id>
+	<Day>Venerdì</Day>
+	<Hour>16:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>35</Id>
+	<Day>Lunedì</Day>
+	<Hour>14:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>36</Id>
+	<Day>Mercoledì</Day>
+	<Hour>16:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>37</Id>
+	<Day>Venerdì</Day>
+	<Hour>09:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>38</Id>
+	<Day>Mercoledì</Day>
+	<Hour>11:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>39</Id>
+	<Day>Giovedì</Day>
+	<Hour>16:00</Hour>
+	<Room>M-Lab</Room>
+</Activity>
+<Activity>
+	<Id>40</Id>
+	<Day>Mercoledì</Day>
+	<Hour>18:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>41</Id>
+	<Day>Martedì</Day>
+	<Hour>16:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>42</Id>
+	<Day>Giovedì</Day>
+	<Hour>11:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>43</Id>
+	<Day>Lunedì</Day>
+	<Hour>14:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>44</Id>
+	<Day>Martedì</Day>
+	<Hour>09:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>45</Id>
+	<Day>Lunedì</Day>
+	<Hour>11:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>46</Id>
+	<Day>Mercoledì</Day>
+	<Hour>14:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>47</Id>
+	<Day>Venerdì</Day>
+	<Hour>16:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>48</Id>
+	<Day>Martedì</Day>
+	<Hour>14:00</Hour>
+	<Room>S1</Room>
+</Activity>
+<Activity>
+	<Id>49</Id>
+	<Day>Lunedì</Day>
+	<Hour>09:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>50</Id>
+	<Day>Venerdì</Day>
+	<Hour>11:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>51</Id>
+	<Day>Martedì</Day>
+	<Hour>11:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>52</Id>
+	<Day>Giovedì</Day>
+	<Hour>16:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>53</Id>
+	<Day>Giovedì</Day>
+	<Hour>09:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>54</Id>
+	<Day>Martedì</Day>
+	<Hour>16:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>55</Id>
+	<Day>Mercoledì</Day>
+	<Hour>09:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>56</Id>
+	<Day>Martedì</Day>
+	<Hour>11:00</Hour>
+	<Room>DM-3 Lab</Room>
+</Activity>
+<Activity>
+	<Id>57</Id>
+	<Day>Giovedì</Day>
+	<Hour>09:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>58</Id>
+	<Day>Lunedì</Day>
+	<Hour>16:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>59</Id>
+	<Day>Martedì</Day>
+	<Hour>14:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>60</Id>
+	<Day>Venerdì</Day>
+	<Hour>14:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>61</Id>
+	<Day>Giovedì</Day>
+	<Hour>11:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>62</Id>
+	<Day>Venerdì</Day>
+	<Hour>11:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>63</Id>
+	<Day>Giovedì</Day>
+	<Hour>14:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>64</Id>
+	<Day>Lunedì</Day>
+	<Hour>09:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>65</Id>
+	<Day>Giovedì</Day>
+	<Hour>18:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>66</Id>
+	<Day>Lunedì</Day>
+	<Hour>16:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>67</Id>
+	<Day>Venerdì</Day>
+	<Hour>14:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>68</Id>
+	<Day>Lunedì</Day>
+	<Hour>11:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>69</Id>
+	<Day>Giovedì</Day>
+	<Hour>14:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>70</Id>
+	<Day>Martedì</Day>
+	<Hour>16:00</Hour>
+	<Room>S1</Room>
+</Activity>
+<Activity>
+	<Id>71</Id>
+	<Day>Mercoledì</Day>
+	<Hour>16:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>72</Id>
+	<Day>Venerdì</Day>
+	<Hour>09:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>73</Id>
+	<Day>Venerdì</Day>
+	<Hour>18:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>74</Id>
+	<Day>Mercoledì</Day>
+	<Hour>09:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>75</Id>
+	<Day>Venerdì</Day>
+	<Hour>11:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>76</Id>
+	<Day>Martedì</Day>
+	<Hour>11:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>77</Id>
+	<Day>Giovedì</Day>
+	<Hour>11:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>78</Id>
+	<Day>Lunedì</Day>
+	<Hour>09:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>79</Id>
+	<Day>Martedì</Day>
+	<Hour>09:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>80</Id>
+	<Day>Venerdì</Day>
+	<Hour>09:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>81</Id>
+	<Day>Mercoledì</Day>
+	<Hour>11:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>82</Id>
+	<Day>Martedì</Day>
+	<Hour>11:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>83</Id>
+	<Day>Giovedì</Day>
+	<Hour>14:00</Hour>
+	<Room>S1</Room>
+</Activity>
+<Activity>
+	<Id>84</Id>
+	<Day>Venerdì</Day>
+	<Hour>14:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>85</Id>
+	<Day>Lunedì</Day>
+	<Hour>16:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>86</Id>
+	<Day>Giovedì</Day>
+	<Hour>16:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>87</Id>
+	<Day>Lunedì</Day>
+	<Hour>11:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>88</Id>
+	<Day>Martedì</Day>
+	<Hour>09:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>89</Id>
+	<Day>Mercoledì</Day>
+	<Hour>14:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>90</Id>
+	<Day>Mercoledì</Day>
+	<Hour>11:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>91</Id>
+	<Day>Venerdì</Day>
+	<Hour>09:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>92</Id>
+	<Day>Lunedì</Day>
+	<Hour>09:00</Hour>
+	<Room>G</Room>
+</Activity>
+<Activity>
+	<Id>93</Id>
+	<Day>Venerdì</Day>
+	<Hour>11:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>94</Id>
+	<Day>Giovedì</Day>
+	<Hour>14:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>95</Id>
+	<Day>Martedì</Day>
+	<Hour>11:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>96</Id>
+	<Day>Venerdì</Day>
+	<Hour>16:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>97</Id>
+	<Day>Lunedì</Day>
+	<Hour>14:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>98</Id>
+	<Day>Mercoledì</Day>
+	<Hour>11:00</Hour>
+	<Room>N1</Room>
+</Activity>
+<Activity>
+	<Id>99</Id>
+	<Day>Martedì</Day>
+	<Hour>14:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>100</Id>
+	<Day>Lunedì</Day>
+	<Hour>18:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>101</Id>
+	<Day>Venerdì</Day>
+	<Hour>14:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>102</Id>
+	<Day>Giovedì</Day>
+	<Hour>09:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>103</Id>
+	<Day>Lunedì</Day>
+	<Hour>18:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>104</Id>
+	<Day>Giovedì</Day>
+	<Hour>11:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>105</Id>
+	<Day>Mercoledì</Day>
+	<Hour>16:00</Hour>
+	<Room>O1</Room>
+</Activity>
+<Activity>
+	<Id>106</Id>
+	<Day>Mercoledì</Day>
+	<Hour>18:00</Hour>
+	<Room>P1</Room>
+</Activity>
+<Activity>
+	<Id>107</Id>
+	<Day>Lunedì</Day>
+	<Hour>16:00</Hour>
+	<Room>N</Room>
+</Activity>
+<Activity>
+	<Id>108</Id>
+	<Day>Venerdì</Day>
+	<Hour>09:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>109</Id>
+	<Day>Giovedì</Day>
+	<Hour>14:00</Hour>
+	<Room>E1</Room>
+</Activity>
+<Activity>
+	<Id>110</Id>
+	<Day>Mercoledì</Day>
+	<Hour>09:00</Hour>
+	<Room>E1</Room>
+</Activity>
+</Activities_Timetable>
